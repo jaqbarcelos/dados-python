@@ -28,6 +28,9 @@ Durante os dias da imersão, consegui:
 
 * Streamlit
 
+# 🔗 Link 
+https://dashboard-salarios-area-dados.streamlit.app/
+
 # ✨ Reflexão Pessoal
 
 Essa imersão foi um divisor de águas para mim. Pude revisar a linguagem Python, aprendi a transformar dados em informações valiosas e a construir projetos que refletem problemas reais. Sinto que evoluí muito em pouco tempo e essa experiência me ajudou a ganhar confiança para enfrentar desafios reais e mais complexos na área de dados, e desenvolver meus projetos pessoais de análise.
