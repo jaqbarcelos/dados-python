@@ -16,7 +16,7 @@ Durante os dias da imersão, consegui:
 
 * Construir projetos práticos que simulam desafios reais de Data Science.
 
-# 🛠 Tecnologias que Usei
+# 🛠 Tecnologias Utilizadas
 
 * Python
 
