@@ -2,6 +2,9 @@
 
 Este repositório contém os projetos desenvolvidos durante a Imersão "Dados Python" promovida pela Alura. O objetivo do projeto foi aplicar técnicas de análise de dados utilizando a linguagem Python, focando no uso das bibliotecas Pandas, NumPy, Seaborn e Matplotlib.
 
+# 🔗 Link do projeto final
+https://dashboard-salarios-area-dados.streamlit.app/
+
 # 💻 O que Aprendi
 
 Durante os dias da imersão, consegui:
@@ -27,9 +30,6 @@ Durante os dias da imersão, consegui:
 * Matplotlib
 
 * Streamlit
-
-# 🔗 Link 
-https://dashboard-salarios-area-dados.streamlit.app/
 
 # ✨ Reflexão Pessoal
 
