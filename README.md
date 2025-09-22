@@ -1,6 +1,6 @@
 # 📊 Análise de dados com Python
 
-Este repositório contém os projetos desenvolvidos durante a Imersão "Dados Python" promovida pela Alura. O objetivo do projeto foi aplicar técnicas de análise de dados utilizando a linguagem Python, focando no uso das bibliotecas Pandas, NumPy, Seaborn e Matplotlib.
+Este repositório contém o projeto desenvolvido durante a Imersão "Dados Python" promovida pela Alura. O objetivo do projeto foi aplicar técnicas de análise de dados utilizando a linguagem Python, focando no uso das bibliotecas Pandas, NumPy, Seaborn e Matplotlib.
 
 # 💻 O que Aprendi
 
